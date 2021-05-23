@@ -1,4 +1,4 @@
-#Part I: Elementary Reinforcement Learning
+# Part I: Elementary Reinforcement Learning
 
 ## 0. Introduction to Reinforcement Learning (RL)
 
